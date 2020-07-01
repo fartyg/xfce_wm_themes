@@ -1,0 +1,19 @@
+## prelude-dark for xfwm4
+## based on prelude-dfr-0.5 (changed gray title bars to black)
+## based on prelude-4 xfwm4 theme made by atrxx
+
+full_width_title=false
+show_app_icon=false:
+button_layout=O|HMC
+button_offset=2
+button_spacing=1
+title_alignment=center
+title_vertical_offset_active=-24
+title_vertical_offset_inactive=-24
+active_text_color=#888888
+inactive_text_color=#888888
+title_shadow_inactive=true
+active_text_shadow_color=#999999
+inactive_text_shadow_color=#999999
+shadow_delta_x=-4
+shadow_delta_y=-4
