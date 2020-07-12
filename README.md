@@ -3,3 +3,4 @@
 ![Alt text](prelude-dark-monokai-screenshot.png?raw=true "prelude-dark-monokai")
 ![Alt text](prelude-nordic-screenshot.png?raw=true "prelude-nordic")
 ![Alt text](prelude-mono-screenshot.png?raw=true "prelude-mono")
+![Alt text](prelude-mono-screenshot.png?raw=true "prelude-numix")
